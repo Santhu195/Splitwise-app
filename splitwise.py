@@ -2,7 +2,6 @@
 # It makes it easier to pay people back by minimizing the total number of payments. 
 import json
 import operator
-import pandas as pd
 
 with open('input.json','r') as f:
     b = json.load(f)
