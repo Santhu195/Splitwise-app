@@ -1,0 +1,51 @@
+[ 
+    { 
+    "bill_number": 286,
+     "paid_by": "Chris", 
+     "split_between":
+      [ "Alice",
+        "Bob",
+        "Chris" 
+    ], 
+    "total_bill_amount": 600 
+    }, 
+    { 
+    "bill_number": 287, 
+    "paid_by": "Chris", 
+    "split_between":
+      [ "Alice",
+        "Bob",
+        "Chris" 
+    ], 
+    "total_bill_amount": 1200
+    },  
+    { 
+    "bill_number": 288, 
+    "paid_by": "Alice",
+     "split_between":
+      [ "Alice", 
+        "Bob",
+        "Chris" 
+    ],
+    "total_bill_amount": 300 
+    },
+    { 
+    "bill_number": 289,
+    "paid_by": "Bob",
+    "split_between":
+    [ "Alice", 
+    "Bob", 
+    "Chris" 
+    ], 
+    "total_bill_amount": 900 
+    }, 
+    { 
+    "bill_number": 290,
+    "paid_by": "Alice",
+    "split_between": 
+    [ "Alice",
+    "Bob", 
+    "Chris" ],
+    "total_bill_amount": 2400 
+    } 
+    ] 
